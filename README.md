@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samiralam04/samiralam04/main/assets/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpg" alt="banner" />
+  <img src="https://raw.githubusercontent.com/samir-0-4/samir-0-4/main/assets/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpg" alt="banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Samir Alam</h1>
+<h1 align="center">Hi 👋, I'm Samir </h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <div align="center">
@@ -13,17 +13,17 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/samiralam04?tab=repositories">
+    <a href="https://github.com/samir-0-4?tab=repositories">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/samiralam04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
-    <a href="https://github.com/samiralam04?tab=followers">
+    <a href="https://github.com/samir-0-4?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/samiralam04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=samiralam04&label=Profile%20views&color=0e75b6&style=flat" alt="samiralam04" />
-    <a href="https://github.com/samiralam04"><img src="https://img.shields.io/github/last-commit/samiralam04/samiralam04?logo=github&style=flat" alt="github activity" /></a>
+    <img src="https://komarev.com/ghpvc/?username=samir-0-4&label=Profile%20views&color=0e75b6&style=flat" alt="samir-0-4" />
+    <a href="https://github.com/samir-0-4"><img src="https://img.shields.io/github/last-commit/samir-0-4/samir-0-4?logo=github&style=flat" alt="github activity" /></a>
   </p>
 </div>
 
