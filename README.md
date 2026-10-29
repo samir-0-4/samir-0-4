@@ -99,18 +99,18 @@ const samir = {
   <br>
   
   ### 📈 Activity Graph
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samiralam04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samir-0-4&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/samiralam04/samiralam04/main/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/samir-0-4/samir-0-4/main/output/pacman-contribution-graph-dark.svg">
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/samiralam04/samiralam04/main/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/samir-0-4/samir-0-4/main/output/pacman-contribution-graph.svg">
 
   <img alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/samiralam04/samiralam04/main/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/samir-0-4/samir-0-4/main/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
@@ -119,16 +119,16 @@ const samir = {
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://samiralam04.github.io/samir-portfolio/">
+  <a href="https://samir-portfolio-ai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" />
   </a>
-  <a href="mailto:samirlalam7005@gmail.com">
+  <a href="mailto:samir40977@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://instagram.com/samir.__.04">
+  <a href="https://www.instagram.com/unknown_o_user?xtok=MTlwaWNxYnJseG16Mg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/samir--alam/">
+  <a href="https://www.linkedin.com/in/samir-o4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
